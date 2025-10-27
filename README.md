@@ -56,12 +56,4 @@ Próximos passos
 - Expansão para marketplaces, logística e devoluções, com automação de monitoramento e SLOs.
 - Roadmap de advanced analytics (forecast, uplift, recomendação) sobre o DW com ciclo de MLOps.
 
-[1](https://www.ecommercebrasil.com.br/artigos/cinco-desafios-do-omnichannel-no-varejo)
-[2](https://estoca.com.br/blog/varejo-digital-6-principais-desafios-e-como-supera-los/)
-[3](https://cndl.org.br/varejosa/6-desafios-de-atendimento-no-e-commerce-b2b/)
-[4](https://febrabantech.febraban.org.br/temas/inovacao/integracao-de-dados-e-desafio-da-experiencia-omnichannel)
-[5](https://blog.magicsoftware.com.br/gestao-de-dados-no-varejo-dominando-os-desafios-omnichannel-e-o-comercio-digital/)
-[6](https://www.retailmedianews.com.br/noticias/ferramentas-de-gestao/quais-sao-os-desafios-do-varejo-brasileiro-para-implementacao-e-contratacao-de-plataformas-de-retail-media/)
-[7](https://www.selia.com.br/selia-news/desafios-e-tendencias-do-e-commerce/)
-[8](https://publicacoes.unifal-mg.edu.br/revistas/index.php/cei/article/download/2146/1656/10118)
-[9](https://www.unirio.br/ccjp/escola-de-administracao-publica/trabalhos-de-conclusao-de-curso-1/2019.1/NicolasRocha.pdf)
+
